@@ -6,4 +6,7 @@ Per ora ho messo solo quello che ti ho detto ieri. Ogni giorno cercherò di aggi
 
 To download the hiragana dataset go here: https://github.com/inoueMashuu/hiragana-dataset
 
-Aggiornamento 7 gennaio 2023: Ho fatto l'upload di Last Hiragana e CNN che sono le ultime versioni prodotte. Ho alcuni dubbi sia riguardo il codice sia riguardo le performance della CNN. In ogni caso sono riuscito a fare data augmentation sul dataset iniziali così da ottenere un dataset di 2000 immagini. Con questo dataset le prestazioni (soprattutto della val_loss) sono migliorate, anche se ancora non so se sono soddisfacienti. Ci sono molti punti del codice da migliorare, soprattutto la parte in cui uso Tensorflow.
+Aggiornamento 7 gennaio 2023:
+
+1.Ho fatto l'upload di Last Hiragana e CNN che sono le ultime versioni prodotte. Ho alcuni dubbi sia riguardo il codice sia riguardo le performance della CNN. In ogni caso sono riuscito a fare data augmentation sul dataset iniziali così da ottenere un dataset di 2000 immagini. Con questo dataset le prestazioni (soprattutto della val_loss) sono migliorate, anche se ancora non so se sono soddisfacienti. Ci sono molti punti del codice da migliorare, soprattutto la parte in cui uso Tensorflow.
+2. Ho caricato New CNN in cui credo di aver migliorato le prestazionima sembrano troppo buone per essere vere quindi aspetto di fare il check dello script insieme.
