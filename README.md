@@ -4,7 +4,7 @@ Repository for my handwritten kanji and hiragana recognition project.
 
 To download the hiragana dataset go here: https://github.com/inoueMashuu/hiragana-dataset
 
-Environment used to run the code: Python 3.9.13
+Environment used to test the code: Python 3.9.13
 
 
 Il primo passo è quello di creare due cartelle. In una va inserito il dataset (scaricato dal link sopra) e nell'altra verrà inserito il dataset finale dopo l'esecuzione del notebook Hiragana Dataset.
