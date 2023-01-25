@@ -17,10 +17,10 @@ Code to generate the dictionary for the labels.
 Notebook containing the CNN model. The model is trained and evaluated with the dataset created in the Hiragana Dataset Augmentations notebook.
 
 ## Instructions
-1.Download the initial hiragana dataset
+1. Download the initial hiragana dataset
 
-2.Create two folders: in the first one insert the initial hiragana dataset files, the second one will store the new dataset created by performing data augmentaion on the initial dataset.
+2. Create two folders: in the first one insert the initial hiragana dataset files, the second one will store the new dataset created by performing data augmentaion on the initial dataset.
 
-3.Insert in 'Hiragana Dataset Augmentations' notebook the two folders' paths: the path of the folder containing the initial dataset in 'src_dir' and the other path in 'dst_dir'.
+3. Insert in 'Hiragana Dataset Augmentations' notebook the two folders' paths: the path of the folder containing the initial dataset in 'src_dir' and the other path in 'dst_dir'.
 
-4.Run the notebooks in this order: Hiragana Dataset Augmentations --> Label Dictionary --> CNN Model.
+4. Run the notebooks in this order: Hiragana Dataset Augmentations --> Label Dictionary --> CNN Model.
