@@ -1,11 +1,17 @@
 # Hiragana OCR Project
 
 ## Introduction
-Repository for my handwritten kanji and hiragana recognition project.
+Repository for my handwritten hiragana recognition project.
 
 To download the initial hiragana dataset go here: https://github.com/inoueMashuu/hiragana-dataset
 
 Environment used to test the code: Python 3.9.13
+
+## Description
+Creation, training and evaluation of CNN model used to recognize handwritten hiragana charachters. 
+
+Initial dataset specifics: 1000 images, 83x84 resolution
+Augmented dataset specifics: 10000 images, 84x84 resolution, divided in 50 classes
 
 ## Project files
 The repository is composed by 3 notebooks: Hiragana Dataset Augmentations, Label Dictionary, CNN Model
