@@ -21,7 +21,7 @@ The repository is composed by 3 notebooks: Hiragana Dataset Augmentations, Label
 Code to perform the data augmentation on the initial hiragana dataset.
 ### Label Dictionary
 Code to generate the dictionary for the labels.
-### Label Dictionary
+### CNN Model
 Notebook containing the CNN model. The model is trained and evaluated with the dataset created in the Hiragana Dataset Augmentations notebook.
 
 ## Instructions
