@@ -11,6 +11,7 @@ Environment used to test the code: Python 3.9.13
 Creation, training and evaluation of CNN model used to recognize handwritten hiragana charachters. 
 
 Initial dataset specifics: 1000 images, 83x84 resolution
+
 Augmented dataset specifics: 10000 images, 84x84 resolution, divided in 50 classes
 
 ## Project files
