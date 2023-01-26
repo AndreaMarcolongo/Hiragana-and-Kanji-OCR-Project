@@ -8,7 +8,8 @@ To download the initial hiragana dataset go here: https://github.com/inoueMashuu
 Environment used to test the code: Python 3.9.13
 
 ## Description
-Creation, training and evaluation of CNN model used to recognize handwritten hiragana charachters. 
+Creation, training and evaluation of CNN model used to recognize handwritten hiragana charachters (46 base charachetrs + 4 with dakuten).
+
 
 Initial dataset specifics: 1000 images, 83x84 resolution
 
