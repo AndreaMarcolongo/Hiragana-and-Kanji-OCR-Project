@@ -3,7 +3,7 @@
 ## Introduction
 Repository for my handwritten hiragana recognition project.
 
-To download the initial hiragana dataset go here: https://github.com/inoueMashuu/hiragana-dataset
+To download the initial hiragana dataset: https://github.com/inoueMashuu/hiragana-dataset
 
 Environment used to test the code: Python 3.9.13
 
