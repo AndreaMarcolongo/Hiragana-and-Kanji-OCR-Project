@@ -13,11 +13,11 @@ Creation, training and evaluation of CNN model used to recognize handwritten hir
 
 Initial dataset: 1000 images, 83x84 resolution
 
-<img src="https://github.com/AndreaMarcolongo/Hiragana-and-Kanji-OCR-Project/blob/main/Description%20images/orig_img.jpg" width=50% height=50%>
+<img src="https://github.com/AndreaMarcolongo/Hiragana-and-Kanji-OCR-Project/blob/main/Description%20images/orig_img.jpg" width=25% height=25%>
 
 Augmented dataset: 10000 images, 84x84 resolution, divided in 50 classes
 
-![alt text](https://github.com/AndreaMarcolongo/Hiragana-and-Kanji-OCR-Project/blob/main/Description%20images/aug_img.jpg)
+<img src="https://github.com/AndreaMarcolongo/Hiragana-and-Kanji-OCR-Project/blob/main/Description%20images/aug_img.jpg" width=25% height=25%>
 
 ## Project files
 The rproject is composed of 3 notebooks: Hiragana Dataset Augmentations, Label Dictionary, CNN Model
@@ -49,8 +49,8 @@ These are the performance obtained by the model on the augmented dataset:
 
 Confusion matrix:
 
-![alt text](https://github.com/AndreaMarcolongo/Hiragana-and-Kanji-OCR-Project/blob/main/Description%20images/confusion%20matrix.jpg)
+<img src="https://github.com/AndreaMarcolongo/Hiragana-and-Kanji-OCR-Project/blob/main/Description%20images/confusion%20matrix.jpg" width=25% height=25%>
 
 Prediction confidence:
 
-![alt text](https://github.com/AndreaMarcolongo/Hiragana-and-Kanji-OCR-Project/blob/main/Description%20images/prediction%20confidence.jpg)
+<img src="https://github.com/AndreaMarcolongo/Hiragana-and-Kanji-OCR-Project/blob/main/Description%20images/prediction%20confidence.jpg" width=25% height=25%>
