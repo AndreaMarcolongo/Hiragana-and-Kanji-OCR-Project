@@ -39,6 +39,6 @@ These are the performance obtained by the model on the augmented dataset:
 
 | | Training set | Validation set | Test set |
 | ------------- | ------------- |-------------- | -------- |
-| 'Accuracy'  | 1.0000  | 0.9945 | 0.9929 |
-| 'Loss'  | 0.0015  | 0.0223 | 0.0236 |
-| 'F1 Score' | X | X | 0.9930 |
+| `Accuracy`  | 1.0000  | 0.9945 | 0.9929 |
+| `Loss`  | 0.0015  | 0.0223 | 0.0236 |
+| `F1 Score` | X | X | 0.9930 |
