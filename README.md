@@ -42,7 +42,3 @@ These are the performance obtained by the model on the augmented dataset:
 | `Accuracy`  | 1.0000  | 0.9945 | 0.9929 |
 | `Loss`  | 0.0015  | 0.0223 | 0.0236 |
 | `F1 Score` | X | X | 0.9930 |
-
-Confusion matrix:
-
-![Alt text](C:\Users\andma\Downloads\confusion matrix.png?raw=true "Title")
