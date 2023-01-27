@@ -49,8 +49,8 @@ These are the performance obtained by the model on the augmented dataset:
 
 Confusion matrix:
 
-<img src="https://github.com/AndreaMarcolongo/Hiragana-and-Kanji-OCR-Project/blob/main/Description%20images/confusion%20matrix.jpg" width=50% height=50%>
+<img src="https://github.com/AndreaMarcolongo/Hiragana-and-Kanji-OCR-Project/blob/main/Description%20images/confusion%20matrix.jpg" width=70% height=70%>
 
 Prediction confidence:
 
-<img src="https://github.com/AndreaMarcolongo/Hiragana-and-Kanji-OCR-Project/blob/main/Description%20images/prediction%20confidence.jpg" width=50% height=50%>
+<img src="https://github.com/AndreaMarcolongo/Hiragana-and-Kanji-OCR-Project/blob/main/Description%20images/prediction%20confidence.jpg" width=70% height=70%>
