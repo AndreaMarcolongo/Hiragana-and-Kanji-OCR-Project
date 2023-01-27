@@ -13,7 +13,6 @@ Creation, training and evaluation of CNN model used to recognize handwritten hir
 
 Initial dataset: 1000 images, 83x84 resolution
 
-![alt text](https://github.com/AndreaMarcolongo/Hiragana-and-Kanji-OCR-Project/blob/main/Description%20images/orig_img.jpg)
 <img src="[https://user-images.githubusercontent.com/16319829/81180309-2b51f000-8fee-11ea-8a78-ddfe8c3412a7.png](https://github.com/AndreaMarcolongo/Hiragana-and-Kanji-OCR-Project/blob/main/Description%20images/orig_img.jpg)" width=50% height=50%>
 
 Augmented dataset: 10000 images, 84x84 resolution, divided in 50 classes
