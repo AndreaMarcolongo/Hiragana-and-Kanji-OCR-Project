@@ -35,7 +35,21 @@ Notebook containing the CNN model. The model is trained and evaluated using the 
 
 3. Insert the two folders' paths in 'Hiragana Dataset Augmentations' notebook: the path of the folder containing the initial dataset in 'src_dir' and the other folder path in 'dst_dir'.
 
-4. Run the notebooks in this order: Hiragana Dataset Augmentations --> Label Dictionary --> CNN Model.
+4. Clone the repository on the local system
+
+5. Open the terminal in the cloned repository folder and create a virtual environment:
+   ```
+   python -m venv virtual_env
+   ```
+6. Activate the virtual environment with:
+   ```
+   virtual_env/Scripts/activate
+   ```
+7.Install all the project dependencies using:
+   ```
+   pip install -r requirements.txt
+   ```
+8. Run the notebooks in this order: Hiragana Dataset Augmentations --> Label Dictionary --> CNN Model.
 
 ## Conclusions
 
