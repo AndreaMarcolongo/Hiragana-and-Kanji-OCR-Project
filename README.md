@@ -45,11 +45,16 @@ Notebook containing the CNN model. The model is trained and evaluated using the 
    ```
    virtual_env/Scripts/activate
    ```
-7.Install all the project dependencies using:
-   ```
-   pip install -r requirements.txt
-   ```
+ 7.Install all the project dependencies using:
+    ```
+    pip install -r requirements.txt
+    ```
 8. Run the notebooks in this order: Hiragana Dataset Augmentations --> Label Dictionary --> CNN Model.
+
+9. Deactivate the virtual environment with:
+    ```
+    deactivate
+    ```
 
 ## Conclusions
 
