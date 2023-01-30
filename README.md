@@ -20,7 +20,7 @@ Augmented dataset: 10000 images, 84x84 resolution, divided in 50 classes
 <img src="https://github.com/AndreaMarcolongo/Hiragana-and-Kanji-OCR-Project/blob/main/Description%20images/aug_img.jpg" width=25% height=25%>
 
 ## Project files
-The rproject is composed of 3 notebooks: Hiragana Dataset Augmentations, Label Dictionary, CNN Model
+The project is consists of 3 notebooks: Hiragana Dataset Augmentations, Label Dictionary, CNN Model
 ### Hiragana Dataset Augmentations
 Code to perform the data augmentation on the initial hiragana dataset.
 ### Label Dictionary
@@ -50,11 +50,6 @@ Notebook containing the CNN model. The model is trained and evaluated using the 
    pip install -r requirements.txt
    ```
 8. Run the notebooks in this order: Hiragana Dataset Augmentations --> Label Dictionary --> CNN Model.
-
-9. Deactivate the virtual environment with:
-    ```
-    deactivate
-    ```
 
 ## Conclusions
 
