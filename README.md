@@ -45,7 +45,7 @@ Notebook containing the CNN model. The model is trained and evaluated using the 
    ```
    virtual_env/Scripts/activate
    ```
- 7.Install all the project dependencies using:
+ 7. Install all the project dependencies using:
    ```
    pip install -r requirements.txt
    ```
